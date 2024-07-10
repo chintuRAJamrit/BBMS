@@ -1,0 +1,8 @@
+- this project related Blood Donation and management 
+- using php, mysql , jquery , css/bootstrap.
+- software like Xammp, Myphpadmin and Apache, MySql
+- it has mainly 3 fields - Admin , Donor , Patient
+- each field contains its componetents
+- each user uses there own priviuos data
+- that is showed in this componenets by having session from php
+- additionaly it generates Blood DOnated Certificate as well.
